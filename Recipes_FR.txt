@@ -1,0 +1,5 @@
+Recipes_FR = {
+    Recipe_Make_Korek_Machete = "Fabriquer une Machette Korek",
+    Recipe_Make_Reaver_Cleaver = "Fabriquer un Hachoir Reaver",
+    Recipe_Make_Improvised_Cold_Steel_Spear = "Fabriquer une Lance Coldsteel improvisée",
+}
